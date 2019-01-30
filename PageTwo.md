@@ -1,6 +1,6 @@
-<h2> If you're reading this then I at least accomplished one of the requirements! <h2>
+<h4> If you're reading this then I at least accomplished one of the requirements! <h4>
 
-<p> I'm a big fan of documentaries so I really like the True/False Film Festival here in Columbia. Did you know that True/False is less than a month away?! Check it out here: https://truefalse.org </p>
+I'm a big fan of documentaries so I really like the True/False Film Festival here in Columbia. Did you know that True/False is less than a month away?! Check it out here: https://truefalse.org
 
 **I personally really like the _IT Crowd_ so my block text will be a quote from season 1 episode 2 of the show.**
 
@@ -32,4 +32,4 @@ _Seriously - checkout the IT Crowd on Netflix._
 
 ___
 
-<h1>**The End.**</h1> 
+<h1>**The End.**</h1>

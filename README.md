@@ -4,12 +4,14 @@ This is my work for the Git, GitHub and Markdown Challenge.
 <h2> Welcome to the Read Me File<h2>
 
 
-<h4> Proceed to the Next Page <h4>
-<p> [Page Two](PageTwo.md) will tell you a little more about me! </p>
 
-<p/> It's been pretty cold lately, to check out when warmer weather may be on the way go to the National Weather Service's site: True/False is less than a month away! Check it out here: https://www.weather.gov
+[Page Two](PageTwo.md) will tell you a little more about me!
 
-I highly recommend a nice cup of coffee on these cold winter days (or any day really).</p> ![Coffee](coffee.jpg)
+It's been pretty cold lately, to check out when warmer weather may be on the way go to the National Weather Service's site: True/False is less than a month away! Check it out here: https://www.weather.gov
+
+I highly recommend a nice cup of coffee on these cold winter days (or any day really).
+
+ ![Coffee](coffee.jpg)
 
 
 ```python
