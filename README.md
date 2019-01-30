@@ -6,7 +6,7 @@ ___
 
 ___
 
-It's been pretty cold lately, to check out when warmer weather may be on the way go to the National Weather Service's site: True/False is less than a month away! Check it out here: https://www.weather.gov
+It's been pretty cold lately, to check out when warmer weather may be on the way go to the National Weather Service's site: https://www.weather.gov
 
 I highly recommend a nice cup of coffee on these cold winter days (or any day really).
 

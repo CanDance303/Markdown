@@ -1,4 +1,4 @@
-#### If you're reading this then I at least accomplished one of the requirements! 
+#### If you're reading this then I at least accomplished one of the requirements!
 
 ___
 I'm a big fan of documentaries so I really like the True/False Film Festival here in Columbia. Did you know that True/False is less than a month away?! Check it out here: https://truefalse.org
@@ -21,7 +21,7 @@ _Things I Enjoy:_
 * A signed FC Bayern München jersey
 
 
-  ~~Unpopular Opinion: Campus should have been closed on Wednesday~~
+  ~~Unpopular Opinion: Campus should have been closed on Wednesday.~~
 
 
 ![IT Crowd](https://media.giphy.com/media/FspLvJQlQACXu/giphy.gif)
