@@ -1,6 +1,4 @@
-___
-
-## Welcome to the Read Me File
+## Welcome to the README File
 
 ___
 
