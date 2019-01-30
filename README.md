@@ -1,5 +1,4 @@
-# Markdown
-This is my work for the Git, GitHub and Markdown Challenge.
+___
 
 ## Welcome to the Read Me File
 
