@@ -3,9 +3,11 @@ This is my work for the Git, GitHub and Markdown Challenge.
 
 <h2> Welcome to the Read Me File<h2>
 
-
+___
 
 [Page Two](PageTwo.md) will tell you a little more about me!
+
+___
 
 It's been pretty cold lately, to check out when warmer weather may be on the way go to the National Weather Service's site: True/False is less than a month away! Check it out here: https://www.weather.gov
 
@@ -32,3 +34,5 @@ for num in range(1, 100):
 | Cow           | Giant bouncy ball    |    Moooo |
 
 P.S. if you don't believe me about the cow, watch this: [Cow plays soccer](https://www.youtube.com/watch?v=59onAKs2OtE)
+
+___
