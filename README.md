@@ -1,7 +1,7 @@
 # Markdown
 This is my work for the Git, GitHub and Markdown Challenge.
 
-<h2> Welcome to the Read Me File<h2>
+## Welcome to the Read Me File
 
 ___
 
